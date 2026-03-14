@@ -168,9 +168,17 @@ DownloadServlet.java → serves converted file
 
 ## 🖥️ Screenshots
 
-| Home Page | Upload Page | Formats Page |
-|-----------|-------------|--------------|
-| Clean dark UI | Drag & drop upload | 35+ formats listed |
+| Home Page | Upload Page |
+|-----------|-------------|
+| ![Home](https://raw.githubusercontent.com/narayan1483/NaraConvert/master/web/images/home.png) | ![Upload](https://raw.githubusercontent.com/narayan1483/NaraConvert/master/web/images/upload.png) |
+
+| Formats Page | About Page |
+|--------------|------------|
+| ![Formats](https://raw.githubusercontent.com/narayan1483/NaraConvert/master/web/images/formats.png) | ![About](https://raw.githubusercontent.com/narayan1483/NaraConvert/master/web/images/abouts.png) |
+
+| Home Footer |
+|-------------|
+| ![Footer](https://raw.githubusercontent.com/narayan1483/NaraConvert/master/web/images/home_footer.png) |
 
 ---
 
